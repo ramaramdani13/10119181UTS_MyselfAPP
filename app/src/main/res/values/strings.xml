@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RamaRamdani</string>
+    <string name="perkenalan">Hallo, nama saya Rama Ramdani Akbar salam kenal ya , saya memiliki hobby, keterterikan dll seperti dibawah ini siapa tau ada yang sama ehehe.</string>
+    <string name="desc">Saya lahir di Cimahi, 13 Desember 2001. Kuliah di Universitas Komputer Indonesia jurusan Teknik Informatika, kelas IF5</string>
+    <string name="nama">Rama Ramdani Akbar</string>
+    <string name="hobby">Hobby</string>
+    <string name="interest">Interest</string>
+    <string name="cita2">Cita-cita</string>
+    <string name="alamat">Alamat</string>
+    <string name="makes">Makes</string>
+    <string name="mikes">Mikes</string>
+    <string name="atta">Atta Halilintar</string>
+    <string name="fav">Musik dan Video Favorit</string>
+
+</resources>
